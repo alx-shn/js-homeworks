@@ -90,4 +90,28 @@
 //Зробіть сервіс який отримує тризначне число
 //Поверніть користувачу сумму цих чисел
 
-// не знаю як робити цю задачу
+// let num = 320;
+// console.log(Math.floor(num / 100)); // 3.2
+
+// let middle = (num % 100) / 10;
+// console.log(middle); // 2
+
+// let last = num % 10;
+// console.log(last); // 0
+
+// let totalSum = first + middle + last;
+// console.log(totalSum); // 5.2
+
+// let num = 320;
+
+// let first = Math.floor(num / 100);
+// console.log(first); // 3
+
+// let middle = Math.floor((num % 100) / 10);
+// console.log(middle); //2
+
+// let last = num % 10;
+// console.log(last); //0
+
+// let totalSum = first + middle + last;
+// console.log(totalSum); //5
